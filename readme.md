@@ -8,3 +8,5 @@ I then use the Azure Machine Learning Studio to run the
 Included in this repo is a subset of the data used. I did not include all data, as part of the data was propieratry for a project I did for a company doing Machine Learning in the Retail space.
 
 The primary document is the Power Point I used when I gave this talk at two meetups. ESRI GeoDev and Denver Maptime
+
+
