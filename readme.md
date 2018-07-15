@@ -1,6 +1,6 @@
 ## Machine Learning with R and Azure
 
-####**How many crimes iwll be committed in Denver tomorrow**
+#### **How many crimes will be committed in Denver tomorrow**
 
 This is a sample project I did completed on predicting crime in Denver. I used SqlServer tables and views to manipulate the data.
 I then use the Azure Machine Learning Studio to run the 
